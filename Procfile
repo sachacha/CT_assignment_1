@@ -1,1 +1,1 @@
-web: APIs/cmd/main.go
+web: assignment_1_CT
