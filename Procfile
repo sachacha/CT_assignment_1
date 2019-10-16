@@ -1,1 +1,1 @@
-web: assignment_1_CT/src/APIs/cmd
+web: bin/main
