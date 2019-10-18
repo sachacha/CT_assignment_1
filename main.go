@@ -1,7 +1,7 @@
 package main
 
 import (
-	"APIs"
+	"CT_assignment_1/APIs"
 	"fmt"
 	"log"
 	"net/http"
